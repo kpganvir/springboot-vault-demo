@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: vaultdemo
+
+server:
+  port: 8083
+
+
+
+vault:
+  config:
+    uri: http://localhost:8200
+    token: ${vault_token}
