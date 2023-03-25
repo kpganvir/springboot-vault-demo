@@ -1,4 +1,4 @@
-package com.technoxander.config;
+package com.vaultdemo.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

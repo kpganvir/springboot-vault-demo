@@ -1,4 +1,4 @@
-package com.technoxander.model;
+package com.vaultdemo.model;
 
 import lombok.Data;
 

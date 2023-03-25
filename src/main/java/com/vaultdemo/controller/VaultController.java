@@ -1,7 +1,7 @@
-package com.technoxander.controller;
+package com.demo.controller;
 
-import com.technoxander.model.VaultSecrets;
-import com.technoxander.service.VaultService;
+import com.vaultdemo.model.VaultSecrets;
+import com.vaultdemo.service.VaultService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

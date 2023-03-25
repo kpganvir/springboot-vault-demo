@@ -1,6 +1,6 @@
-package com.technoxander.service;
+package com.vaultdemo.service;
 
-import com.technoxander.model.VaultSecrets;
+import com.vaultdemo.model.VaultSecrets;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.vault.core.VaultKeyValueOperations;
